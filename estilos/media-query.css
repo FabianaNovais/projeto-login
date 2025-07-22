@@ -2,7 +2,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
     body {
-        background-image: linear-gradient(to top, #D4CBBF, #83984F, #AB9E93);
+        background-image: linear-gradient(to top, #D4CBBF, #83984f7a, #AB9E93);
     }
     section#login {
         width: 90vw;
@@ -21,7 +21,7 @@
 
 @media screen and (min-width: 992px) {
     body {
-    background-image: linear-gradient(to top, #D4CBBF, #83984F, #AB9E93);
+    background-image: linear-gradient(to top, #D4CBBF, #83984f91, #AB9E93);
     }
 
     section#login {
